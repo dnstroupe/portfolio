@@ -1,6 +1,0 @@
-719f55ba395c46befd125b6fbe302dbfded5f2fa
-5fe766defd69134dee0c1cb8e1ccb6825245704c 
-075cc92bb3f5f996cd8aba2cf49a334c9089fa3c .DS_Store
-cbc2ccd32ba1df573f95f72db04f2063c6b9cacb David Stroupe - HeadshotPro.png
-25f3262fa9025ac25cb0a7e258ecd1a082cd0086 David Stroupe Technical Resume .pdf
-ce50191bde3dbf6ccc9e574b31801def72c0ff73 index.html
